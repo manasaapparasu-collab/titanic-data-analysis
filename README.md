@@ -31,6 +31,6 @@ This project analyzes the Titanic dataset to identify factors affecting passenge
 - Matplotlib / Seaborn
 - Scikit-learn
 
-## 📁 Files
+📁 Files
 - titanic_analysis.ipynb
-- titanic.html
+- titanic_analysis.html
